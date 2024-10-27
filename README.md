@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Stefanelll
-- 👀 I’m interested in Coding Stuff :)
-- 🌱 I’m currently learning Python, JavaScript
+- 👀 I’m interested in Coding Stuff
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on [nothing rn]
-- 📫 How to reach me [how? :]
+- 📫 How to reach me [how?]
 
 <!---
 Stefanelll/Stefanelll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
